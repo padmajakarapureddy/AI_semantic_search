@@ -55,6 +55,3 @@ uvicorn app.main:app --reload
 - `POST /api/search`: Perform a semantic search query.
 - `POST /api/connectors/add`: Add a local directory to sync and monitor.
 - `GET /api/graph`: Retrieve the full knowledge graph structure.
-
-## 📜 License
-MIT License
