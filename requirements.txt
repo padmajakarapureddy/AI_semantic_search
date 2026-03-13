@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pymongo
+py2neo
+scikit-learn
+pandas
+numpy
+python-multipart
+tinydb
+networkx
+matplotlib
+sentence-transformers
+torch
+spacy
+requests

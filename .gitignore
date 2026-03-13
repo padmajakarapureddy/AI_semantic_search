@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+venv/
+ENV/
+
+# Data and Cache
+app/static/*
+!app/static/.gitkeep
+app/data/local_db.json
+
+# Test results
+benchmark_output.txt
+
+# OS generated files
+.DS_Store
+Thumbs.db
